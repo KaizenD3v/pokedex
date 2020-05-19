@@ -1,24 +1,15 @@
-# vue-app
+# Pokedex App
 
-## Project setup
-```
-npm install
-```
+[Link](https://bcpokedex.herokuapp.com)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### Notes
 
-### Lints and fixes files
-```
-npm run lint
-```
+- First Vue App pushed to Production.
+- API for Pokemon Data: [https://pokeapi.co](https://pokeapi.co)
+- API endpoint for Pokemon Images: [Pokemon Image API](https://pokeres.bastionbot.org/images/pokemon/1.png) 
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Author
+
+Brian Cardona (KaizenD3v)
+
