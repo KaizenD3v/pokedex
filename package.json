@@ -1,14 +1,18 @@
 {
-  "name": "vue-app",
-  "version": "0.1.0",
+  "name": "bcpokedex",
+  "version": "1.0.0",
+  "description": "A Vue.js project",
+  "author": "",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "start": "node server.js"
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "express": "^4.17.1",
     "vue": "^2.6.11"
   },
   "devDependencies": {
